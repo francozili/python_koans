@@ -10,3 +10,6 @@ def py_files(filename):
 @runnable
 def execute_koans(*args):
     os.system('python3 -B contemplate_koans.py')
+
+
+# test
